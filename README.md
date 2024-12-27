@@ -3,7 +3,7 @@
 ### Auto apply bot for Indeed and Linkiden
 
  
- ```Nginx
+ ```Apache
  (Coming Soon-- Will be out no later than January 15th)
 ```
 
