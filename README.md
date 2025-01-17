@@ -1,9 +1,9 @@
-# AutoApplication
+# CertsGamified.com
 
-### Auto apply bot for Indeed and Linkiden
+### Certification Roadmap game
 
  
  ```ruby
-(Coming Soon-- Will be out no later than January 15th)
+(Coming Soon-- Will be out no later than January feb 15th)
 ```
 
