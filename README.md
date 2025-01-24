@@ -5,6 +5,6 @@
  
  ```ruby
 (Coming Soon-- Will be out no later than January feb 15th)
-Will have Linkidin apply bot integrated :)
+Will have Linkidin apply bot integrated aswell :)
 ```
 
